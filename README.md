@@ -1,2 +1,2 @@
 # Java-FaculdadeDescomplica
-Pós-Graduação Desenvolvedor Full Stack
+Por aqui irei commitando exercícios e projetos Java pela Faculdade Descomplica
