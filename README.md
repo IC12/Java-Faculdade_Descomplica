@@ -1,2 +1,2 @@
-# Java-FaculdadeDescomplica
-Por aqui irei commitando exercícios e projetos Java pela Faculdade Descomplica
+# Lógica de Programação com Java
+Exercícios com Java para praticar lógica de programação.
